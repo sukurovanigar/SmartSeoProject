@@ -1,0 +1,8 @@
+navigation.geolocation.getCurrentPosition(function(t){
+console.log(t.coords);
+});
+hal hazirdaki map koordinantlarimizi verir/
+let t=68; <<-- yeni deyisen
+recursive funktion---> named funk
+Arrow funktions--> Lamda ecspression.>> x=>x>1000--> asanddddd!!!!!!!!
+ternar operatorlar.. true false// oxunusu cetinlesdirir. 
