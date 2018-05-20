@@ -1,0 +1,36 @@
+
+                                DOM                             BOM                        JavaScript
+                      (The Document Object Model)     (The Brawser Object Model)
+                            document                          navigator
+                                                               screen   
+                                                              location
+                                                               frames
+                                                               history
+                                                            XMLHttpRequest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ARASDIRMA MOVZU:
+    userAgent
+    vendor
+    KHTMLk, like Gecko??
+    BRAWSER USB AND MICROFON AND CAMERA CAN BE ACTIVATED BY USER ACCSES...
+    hardwareConcurrency--->  Nuve sayina accses/\
+    MainTypes??? 
+    how to add pdf file
+    gzip?
+    History
+    protocol:https
+    server global object for IP adress.. 
+  
