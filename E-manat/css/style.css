@@ -1,0 +1,30 @@
+.container{
+ position: relative;
+ width: 600px;
+ height: auto;
+ margin: 0px auto;
+ background-color: skyblue;
+ display: flex;
+ flex-wrap: wrap;
+ padding: 50px;
+}
+#sell{
+    float: right;
+}
+ .prod{
+     width: 150px;
+     height:200px;
+     background-color: azure;
+     margin: 5px;
+ }
+  #sellBtn{
+      right: 10px;
+      position: absolute;
+  }
+
+  .container2{
+      width: 200px;
+      margin: 0px auto;
+      background-color: aquamarine;
+      padding: 20px;
+  }

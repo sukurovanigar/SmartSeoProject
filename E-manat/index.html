@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Login or Singup</title>
+</head>
+
+<body>
+    <form action="#">
+    <div class="container1" style="width: 970px; margin: 0px auto;">
+        <div class="register" style="margin: 0px auto;">
+            <h1>  Registration  </h1>
+            <input id="reg_name" type="text" placeholder="Name">
+            <br>
+            <br>
+            <input id="reg_email" type="email" placeholder="E-mail">
+            <br>
+            <br>
+            <input id="reg_pass" type="password" placeholder="New Password">
+            <br>
+            <br>
+            <input id="reg_pass_retype" type="password" placeholder="Confirm Password">
+            <br>
+            <br>
+            <button onclick="register()">Register</button>
+        </div>
+    </form>
+        <hr>
+        <form action="#">
+        <div class="login">
+            <h1>Sing In</h1>
+            <input id="log_email" type="text" placeholder="Your E-mail">
+            <br>
+            <br>
+            <input id="log_pass" type="password" placeholder="Password">
+            <br>
+            <br>
+            <input type="button" onclick="LogMeIn()" value="Login">
+        </div>
+    </form>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
